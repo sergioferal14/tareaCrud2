@@ -1,0 +1,21 @@
+{
+    "name": "sergi/tarea-crud2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "sergioferal14",
+            "email": "47179155+sergioferal14@users.noreply.github.com"
+        }
+    ],
+    "config": {
+        "optimize-autoloader":true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\":"clases"
+        }
+    },
+    "require": {
+        "fakerphp/faker":"^1.14"
+    }
+}
